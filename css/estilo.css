@@ -6,3 +6,18 @@ html {scroll-behavior: smooth;}
 body {background: linear-gradient(180deg, #0f0f0f, #1a1a1a);
   color: #eaeaea;
   font-family: Arial, sans-serif;margin: 0;}
+
+  .btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #366cff;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background-color: #274bcc;
+}
