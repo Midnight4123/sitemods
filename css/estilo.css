@@ -19,7 +19,7 @@ body {background: linear-gradient(180deg, #0f0f0f, #1a1a1a);
   transition: 0.3s;
 }
 
-.btn {
+.btn-dark:hover {
   background: #1f1f1f;
   border-color: #555;
   color: #fff;
